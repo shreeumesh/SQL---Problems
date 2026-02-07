@@ -1,56 +1,54 @@
 🚀 SQL-PROBLEMS
-<p align="center"> <b>SQL Practice Repository | Interview Preparation | Real-World Scenarios</b> </p> <p align="center"> <img src="https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Level-Beginner_to_Advanced-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Active_Learning-orange?style=for-the-badge" /> </p>
+<p align="center"> <b>SQL Interview Preparation | Concept Mastery | Structured Practice</b> </p> <p align="center"> <img src="https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Focus-Interview_Preparation-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Level-Beginner_to_Advanced-orange?style=for-the-badge" /> </p>
 📖 About
 
-SQL-PROBLEMS is a structured collection of SQL challenges and solutions.
+SQL-PROBLEMS is a structured collection of SQL questions designed to build strong conceptual understanding and interview readiness.
 
-This repository is part of my continuous learning journey to strengthen database fundamentals, improve problem-solving skills, and prepare for technical interviews.
+This repository focuses on mastering SQL fundamentals, logical thinking, and advanced querying techniques commonly tested in technical interviews.
 
 🎯 Objectives
 
-Build strong SQL foundations
+Strengthen core SQL concepts
 
-Improve logical thinking
+Build problem-solving ability
 
-Practice real-world data scenarios
+Understand query execution flow
 
-Prepare for coding assessments
+Improve optimization thinking
 
-Write clean and optimized queries
+Prepare for coding rounds and system design discussions
 
-🧠 Topics Covered
+🧠 Concept Areas Covered
 
-Basic Queries
+SELECT & Filtering Logic
 
-Filtering & Sorting
+Joins & Relationship Handling
 
-Joins
+Aggregations & Grouping
 
-Aggregations
+Subqueries (Correlated & Nested)
 
-Subqueries
-
-CTE
+CTE (Non-Recursive & Recursive)
 
 Window Functions
 
-Data Transformation
+Ranking & Analytical Queries
 
-Analytical Queries
+Set Operations
 
-Advanced SQL Concepts
+Query Optimization Techniques
 
-## 📂 Repository Structure
+Edge Case Handling
 
 ```
-SQL-PROBLEMS
-│
-├── 01_Basics
-├── 02_Joins
-├── 03_Aggregations
-├── 04_Subqueries
-├── 05_Advanced
-└── More_coming_soon
+SQL-PROBLEMS/
+├── 01_Basics/
+├── 02_Joins/
+├── 03_Aggregations/
+├── 04_Subqueries/
+├── 05_CTE/
+├── 06_Window_Functions/
+└── 07_Advanced/
 ```
 
 
@@ -58,21 +56,32 @@ Each problem includes:
 
 📌 Problem Statement
 
-💡 Approach
+💡 Concept Being Tested
 
 🧾 SQL Solution
 
-🔍 Explanation
+🔍 Explanation of Logic
 
-📈 Learning Approach
+⚠️ Edge Case Considerations
 
-Consistency and structured practice are the focus.
-Problems range from beginner to advanced difficulty levels.
+🏆 Learning Approach
 
-🔄 Updates
+This repository emphasizes:
 
-This repository is actively maintained and updated regularly as part of my SQL practice journey.
+Writing clean and readable queries
 
-⭐ Support
+Understanding WHY a solution works
 
-If you find this repository useful, consider starring it and following the journey.
+Comparing multiple approaches
+
+Thinking in sets instead of loops
+
+Building interview confidence
+
+🔄 Status
+
+Actively updated with new problems covering increasing levels of difficulty.
+
+⭐ Goal
+
+To consistently improve SQL proficiency and develop strong conceptual clarity for technical interviews and advanced data roles.
